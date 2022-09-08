@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt br">
+    <head>
+        <title>Meu primeiro HTML</title>
+    </head>
+    <body style="background-color:rgb(185, 114, 101); color:beige">
+       <h1 style="text-align: center"> Olá, mundo!</h1>
+       <p style="color:black; text-align: center">
+        <b>Seja bem vindo ao meu site!</b>
+       </p>
+       <hr>
+       <h2> Informações pessoais:</h2>
+        <p style="color:black">
+        Meu nome é Sarah
+        <br>
+        Tenho 17 anos e este é o meu primeiro site! :)
+        </p>
+        <br>
+        <hr>
+        <h2>Cursos Realizados:</h2>
+        <ul style=" color:black">
+            <li> Técnico em informática </li>
+            <li> Java POO </li>
+            <li> GitHub </li>
+            <li> Python </li>
+        </ul>
+        <hr>
+        <h2> Disciplinas Cursadas: </h2>
+        <ol style="color:black"> 
+            <li> Informática básica </li>
+            <li> Arquitetura de Computadores </li>
+            <li> Banco de Dados </li>
+            <li> Instalação e Manutenção de Computadores </li>
+            <li> Algorítmo e Linguagem de Programação </li>
+            <li> Sistemas Operacionais </li>
+        </ol>
+    </body>
+</html>
