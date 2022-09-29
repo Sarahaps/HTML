@@ -2,11 +2,12 @@
 <html long="pt-br">
     <head>
         <title>Fuxitime</title>
+        <link rel="icon" type="image/x-icon" href="logo.jpg">
     </head>
     <body style="background-color: rgb(219, 179, 208); color:black">
         <br>
         <h1 style="text-align:center; color:rgb(67, 9, 105); ">FUXITIME</h1>
-        <p style="text-align: center;"><img src="IMG_20220929_101607.jpg" alt="logo fuxitime"height="220"width="250">
+        <p style="text-align: center;"><img src="logo.jpg" alt="logo fuxitime"height="220"width="250">
         <h3 style="text-align:center; color:rgb(62, 32, 117)">A hora do fuxico </h3>
         <hr>
         </p>  
