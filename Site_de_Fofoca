@@ -3,56 +3,49 @@
     <head>
         <title>Fuxitime</title>
     </head>
-    <body style="background-color: rgb(212, 163, 130); color:black">
+    <body style="background-color: rgb(219, 179, 208); color:black">
         <br>
-        <p style="text-align: center"><img src="https://res.cloudinary.com/buzzfeed-brasil/image/upload/v1627930513/image-uploads/quiz-result-image/jpeg/d7468a4b923dd192836b4998542f3f47.jpg" alt="ilustração" height="135"width="150">
-        <br>
-        <h1 style="text-align:center; color:rgb(95, 37, 4); ">FUXITIME</h1>
-        
-        <h3 style="text-align:center; color:rgb(0, 0, 0)">A hora do fuxico </h3>
+        <h1 style="text-align:center; color:rgb(67, 9, 105); ">FUXITIME</h1>
+        <p style="text-align: center;"><img src="IMG_20220929_101607.jpg" alt="logo fuxitime"height="220"width="250">
+        <h3 style="text-align:center; color:rgb(62, 32, 117)">A hora do fuxico </h3>
         <hr>
-          <b> </b>
         </p>  
         <br>
-        <h2 style="color:rgb(95, 37, 4)"> O ano de 2005 está repleto de acontecimentos e é claro que nós reunimos as principais notícias para você!</h2>
-        <h2 style="color: rgb(95, 37, 4)">Pega a pipoca, que lá vem fofoca!</h2>
+        <h2 style="text-align:center;color:rgb(150, 46, 141)"> O ano de 2005 está repleto de acontecimentos e é claro que nós reunimos as principais notícias para você!</h2>
+        <h2 style="text-align:center;color: rgb(150,46,141)">Pega a pipoca, que lá vem fofoca!</h2>
+        <p style="text-align: center"><img src="https://res.cloudinary.com/buzzfeed-brasil/image/upload/v1627930513/image-uploads/quiz-result-image/jpeg/d7468a4b923dd192836b4998542f3f47.jpg" alt="ilustração" height="135"width="150">
         <br>
         <hr>
 
-        <h1 style="color: rgb(95, 37, 4); text-align: center;">Inédito! Criação da mais nova plataforma de compartilhamento de vídeos</h1> 
-        <h2 style="color:black; text-align: center;">Em 14 de fevereiro deste ano, Chad Hurley e Steve Chen, funcionários de uma empresa de tecnologia de São Francisco, EUA, criaram o site intitulado de "YouTube". A função deste novo fenômeno é permitir que os usúarios assistam e compartilhem vídeos de forma digital. Com essa plataforma, os usuários não serão empedidos de enviar vídeos grandes, como acontecia no compartilhamento via email. </h2>
+        <h1 style="color: rgb(62, 32, 117); text-align: center;">Inédito! Criação da mais nova plataforma de compartilhamento de vídeos</h1> 
+        <h2 style="color:rgb(141, 6, 96); text-align:left;">Em 14 de fevereiro deste ano, Chad Hurley e Steve Chen, funcionários de uma empresa de tecnologia de São Francisco, EUA, criaram o site intitulado de "YouTube". A função deste novo fenômeno é permitir que os usúarios assistam e compartilhem vídeos de forma digital. Com essa plataforma, os usuários não serão empedidos de enviar vídeos grandes, como acontecia no compartilhamento via email. </h2>
         <p style="text-align:center"><img src="https://classic.exame.com/wp-content/uploads/2017/08/new-youtube-logo-840x402.jpg?quality=70&strip=info&w=840" alt="Logo YouTube" height="260" width="300">
         <br>
-        <a href="https://www.tecmundo.com.br/youtube/118500-historia-youtube-maior-plataforma-videos-do-mundo-video.htm"> Acesse o link e confira mais informações!</a>
+        <a target="_blank" href="https://www.tecmundo.com.br/youtube/118500-historia-youtube-maior-plataforma-videos-do-mundo-video.htm"> Acesse o link e confira mais informações!</a>
         <hr>
 
-        <h1 style="color:rgb(95, 37, 4); text-align: center;">Banco Central é alvo de assalto milionário</h1>
-        <h2 style="color:black; text-align: center;">Entre os dias 6 e 7 de agosto, ladrões realizaram um assalto ao Banco Central do Brasil em Fortaleza, no Ceará. 
+        <h1 style="color:rgb(62,32,117); text-align: center;">Banco Central é alvo de assalto milionário</h1>
+        <h2 style="color:rgb(141, 6, 96); text-align: left;">Entre os dias 6 e 7 de agosto, ladrões realizaram um assalto ao Banco Central do Brasil em Fortaleza, no Ceará. 
             Segundo estimativas da Polícia Federal, os ladrões levaram aproximadamente 150 milhões de reais, fazendo deste, o segundo maior assalto já ocorrido no Brasil. O furto foi realizado à partir de um túnel que foi escavado à cerca de 3 meses, o que possibilitou o acesso ao Banco.  </h2>
         <br>
         <p style="text-align:center"><img src="https://efemeridesdoefemello.files.wordpress.com/2015/08/5ago15.jpg?w=640" alt="Dinheiro furtado do Banco Central">
         <br>
-        <a href="https://www.gazetadopovo.com.br/vida-publica/ladroes-levam-r-150-milhoes-do-bc-9nd1k4glcj8gk36ijef2gtqha/"> Ficou curioso(a)? Acesse este link para saber mais informações:</a>
+        <a target="_blank" href="https://www.gazetadopovo.com.br/vida-publica/ladroes-levam-r-150-milhoes-do-bc-9nd1k4glcj8gk36ijef2gtqha/"> Ficou curioso(a)? Acesse este link para saber mais informações:</a>
         <hr>
 
-        <h1 style="color: rgb(95, 37, 4); text-align:center;"> A Máfia do Apito</h1>
-        <h2 style="color:black; text-align:center;"> A revista Veja trouxe a tona na última sexta, 23 de setembro, um esquema articuladíssimo de manipulação de resultados futebolísticos. A investigação realizada por Promotores de Justiça e pela Polícia Federal de São Paulo, revelou que a pessoa à frente da manobra era o empresário Nagrid Fayad, apelidado de "Gibão". A proprina direcionada aos juízes envolvidos, garantia que o resultado da partidas fraudadas, agradassem investidores em sites de apostas.  </h2>
+        <h1 style="color: rgb(62, 32, 117); text-align:center;"> A Máfia do Apito</h1>
+        <h2 style="color:rgb(141, 6, 96); text-align:left;"> A revista Veja trouxe a tona na última sexta, 23 de setembro, um esquema articuladíssimo de manipulação de resultados futebolísticos. A investigação realizada por Promotores de Justiça e pela Polícia Federal de São Paulo, revelou que a pessoa à frente da manobra era o empresário Nagrid Fayad, apelidado de "Gibão". A proprina direcionada aos juízes envolvidos, garantia que o resultado da partidas fraudadas, agradassem investidores em sites de apostas.  </h2>
         <br>
         <p style="text-align:center"><img src="https://miro.medium.com/max/838/1*33P4FfaIvh3woV3yboZaEQ.jpeg"  height="260" width="300" alt="Capa da edição exclusiva da Veja">
         <br>
-        <a href="https://ludopedio.org.br/arquibancada/a-mafia-do-apito-o-maior-escandalo-do-futebol-brasileiro/"> Acesse o link e entenda melhor!</a></p>
+        <a target="_blank" href="https://ludopedio.org.br/arquibancada/a-mafia-do-apito-o-maior-escandalo-do-futebol-brasileiro/"> Acesse o link e entenda melhor!</a></p>
         <hr> 
 
-        <br>
-        <br>
-        <br>
-        <br>
-        <p style="text-align:center"><img src="logo.png" alt="logo fuxitime" height="200" width="250"></p>
-        <h5 style="color:rgb(95, 37, 4); text-align:left;"> Desenvolvido por:
+        <h4 style="color:rgb(62, 32, 117); text-align:left;"> Este site foi desenvolvido por:
             <ul>
             <li> Alanna Keila Jesus Lopes</li>
             <li> Sarah Araújo Pimentel de Sousa</li>
             </ul> 
-        </h5>
+        </h4>
     </body>
 </html>
