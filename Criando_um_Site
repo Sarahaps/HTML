@@ -6,10 +6,22 @@
     <body style="background-color:rgb(185, 114, 101); color:beige">
        <h1 style="text-align: center"> Olá, mundo!</h1>
        <p style="color:black; text-align: center">
+        <img src="https://images.freeimages.com/images/premium/previews/2949/29496436-icon-flower.jpg" alt="imagem">
+        <br>
+        <br>
         <b>Seja bem vindo ao meu site!</b>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p style="text-align:center">
+        <a href="#Cursos">Cursos Realizados</a>
+        <a href="#Disciplinas ">Disciplinas Cursadas</a>
+        <a href="#Informações">Informações Pessoais</a>
+        <a href="#Boletim">Boletim</a>
        </p>
        <hr>
-       <h2> Informações pessoais:</h2>
+       <h2 id="Informações">Informações pessoais:</h2>
         <p style="color:black">
         Meu nome é Sarah
         <br>
@@ -17,7 +29,7 @@
         </p>
         <br>
         <hr>
-        <h2>Cursos Realizados:</h2>
+        <h2 id="Cursos">Cursos Realizados:</h2>
         <ul style=" color:black">
             <li> Técnico em informática </li>
             <li> Java POO </li>
@@ -25,14 +37,43 @@
             <li> Python </li>
         </ul>
         <hr>
-        <h2> Disciplinas Cursadas: </h2>
-        <ol style="color:black"> 
-            <li> Informática básica </li>
-            <li> Arquitetura de Computadores </li>
-            <li> Banco de Dados </li>
-            <li> Instalação e Manutenção de Computadores </li>
-            <li> Algorítmo e Linguagem de Programação </li>
-            <li> Sistemas Operacionais </li>
-        </ol>
+        <h2 id="Disciplinas">Disciplinas Cursadas:</h2>
+        <ul style="color:black">
+            <ul><b>Disciplinas 1º ano:</b></ul>
+            <ol> 
+                <li> Informática Básica</li>
+                <li> Arquitetura de Computadores</li>
+                <li> Algorítmo e Linguagem de Programação I</li>
+            </ol>
+            <br>
+            <ul> <b> Disciplinas 2º ano:</b> </ul>
+            <ol> 
+                <li> Banco de Ddados</li>
+                <li> Instalação e Manutenção de Computadores </li>
+                <li> Sistemas Operacionais </li>
+            </ol>
+
+            <hr>
+            <h2 id="Boletim"; style="color:beige">Boletim:</h2>
+            <table border="1"> 
+                <tr>
+                    <th>Disciplinas:</th>
+                    <th>1º ano</th>
+                    <th>2º ano</th>
+                    <th>3° ano</th>
+                </tr>
+                <tr>
+                    <th>Português</th>
+                    <th> 8.0</th>
+                    <th> 8.5</th>
+                    <th> 9.0</th>
+                </tr>
+                <tr>
+                    <th>Matemática</th>
+                    <th> 7.8</th>
+                    <th> 8.3</th>
+                    <th> 8.8</th>
+                </tr>
+            </table>
     </body>
 </html>
