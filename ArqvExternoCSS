@@ -1,3 +1,9 @@
 body {
     color: beige;
+    background-color: rgb(185, 114, 101);
+}
+
+<! identificador css que referencia apenas a frase "Sejam bem vindos ao meu site!" ->
+#boasVindas{
+    color:rgb(229, 202, 158);
 }
