@@ -2,8 +2,9 @@
 <html lang="pt br">
     <head>
         <title>Meu primeiro HTML</title>
+        <link rel="stylesheet" href="style.css">
     </head>
-    <body style="background-color:rgb(185, 114, 101); color:beige">
+    <body style="background-color:rgb(185, 114, 101);">
        <h1 style="text-align: center"> Olá, mundo!</h1>
        <p style="color:black; text-align: center">
         <img src="https://images.freeimages.com/images/premium/previews/2949/29496436-icon-flower.jpg" alt="imagem">
