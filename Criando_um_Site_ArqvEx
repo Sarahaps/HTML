@@ -7,7 +7,7 @@
     <body>
        <h1 style="text-align: center"> Olá, mundo!</h1>
        <p style="color:black; text-align: center">
-        <img src="https://images.freeimages.com/images/premium/previews/2949/29496436-icon-flower.jpg" alt="imagem">
+        <img src="flores.png" alt="imagem">
         <br>
         <br>
         <b id="boasVindas">Seja bem vindo ao meu site!</b>
@@ -76,5 +76,16 @@
                     <th> 8.8</th>
                 </tr>
             </table>
+            <hr> 
+            <h2 style="color:beige; text-align:center">Sessão Interaja</h2>
+            <h4 style="text-align:center"> Agora quem quer te conhecer, sou eu :) </h4>
+            <div>
+            <span style="display: inline-block; width: 120px;">Digite seu nome:</span>
+            <input type="text">
+            </div>
+            <br>
+            <!-- comando para separar linhas inline ( &nbsp;  &nbsp;  &nbsp;  &nbsp;) -->
+            <span style="display: inline-block; width: 120px;">Matrícula:</span>
+            <input type="text">
     </body>
 </html>
