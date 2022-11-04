@@ -9,3 +9,7 @@ identificador css que referencia a frase "Sejam bem vindos ao meu site!"
     color:rgb(229, 202, 158);
 }
 
+img{
+    max-width: 100%;
+    height: auto;
+}
