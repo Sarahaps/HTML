@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt br">
+    <head>
+        <title>Meu primeiro HTML</title>
+        <link rel="stylesheet" href="style.css">
+
+        <meta name="viewport"
+        content="width = device-width, initial-scale=1.0">
+    </head>
+    <body>
+       <h1 style="text-align: center"> Olá, mundo!</h1>
+       <p style="color:black; text-align: center">
+        <img src="flores.png" alt="imagem">
+        <br>
+        <br>
+        <b id="boasVindas">Seja bem vindo ao meu site!</b>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p style="text-align:center">
+        <a href="#Cursos">Cursos Realizados</a>
+        <a href="#Disciplinas ">Disciplinas Cursadas</a>
+        <a href="#Informações">Informações Pessoais</a>
+        <a href="#Boletim">Boletim</a>
+       </p>
+       <hr>
+       <h2 id="Informações">Informações pessoais:</h2>
+        <p style="color:black">
+        Meu nome é Sarah
+        <br>
+        Tenho 17 anos e este é o meu primeiro site! :)
+        </p>
+        <br>
+        <hr>
+        <h2 id="Cursos">Cursos Realizados:</h2>
+        <ul style=" color:black">
+            <li> Técnico em informática </li>
+            <li> Java POO </li>
+            <li> GitHub </li>
+            <li> Python </li>
+        </ul>
+        <hr>
+        <h2 id="Disciplinas">Disciplinas Cursadas:</h2>
+        <ul style="color:black">
+            <ul><b>Disciplinas 1º ano:</b></ul>
+            <ol> 
+                <li> Informática Básica</li>
+                <li> Arquitetura de Computadores</li>
+                <li> Algorítmo e Linguagem de Programação I</li>
+            </ol>
+            <br>
+            <ul> <b> Disciplinas 2º ano:</b> </ul>
+            <ol> 
+                <li> Banco de Ddados</li>
+                <li> Instalação e Manutenção de Computadores </li>
+                <li> Sistemas Operacionais </li>
+            </ol>
+
+            <hr>
+            <h2 id="Boletim"; style="color:beige">Boletim:</h2>
+            <table border="1"> 
+                <tr>
+                    <th>Disciplinas:</th>
+                    <th>1º ano</th>
+                    <th>2º ano</th>
+                    <th>3° ano</th>
+                </tr>
+                <tr>
+                    <th>Português</th>
+                    <th> 8.0</th>
+                    <th> 8.5</th>
+                    <th> 9.0</th>
+                </tr>
+                <tr>
+                    <th>Matemática</th>
+                    <th> 7.8</th>
+                    <th> 8.3</th>
+                    <th> 8.8</th>
+                </tr>
+            </table>
+            <hr> 
+            <!-- comando para separar linhas inline ( &nbsp;  &nbsp;  &nbsp;  &nbsp;) -->
+            <h2 style="color:beige; text-align:center">Sessão Interaja</h2>
+            <h4 style="text-align:center"> Agora quem quer te conhecer, sou eu :) </h4>
+            <form acion="/action_page.php">
+                <div>
+                <label for="txtNome"><span style="display: inline-block; width: 120px;">Digite seu nome:</span></label>
+                <input type="text" id="txtNome" name="txtNome"><br>
+                </div>
+                <br>
+                <div>
+                <label for="txtHobbie"><span style="display: inline-block; width: 120px;">Fale-me o que gosta de fazer:</span></label>
+                <input type="text" id="txtHobbie" name="txtHobbie"><br>
+                </div>
+                <br>
+                <div>
+                <label for="txtLocalizacao"><span style="display: inline-block; width: 120px;">De onde você é?</span></label>
+                <input type="text" id="txtLocalizacao" name="txtLocalizacao">
+                </div>
+                <br>
+                <input type="submit" value="Enviar">
+            </form>
+    </body>
+</html>
